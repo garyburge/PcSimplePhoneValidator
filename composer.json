@@ -1,0 +1,25 @@
+{
+    "name": "garyburge/PcSimplePhoneValidator",
+    "description": "A fork of Yii extension PcSimplePhoneValidator by Boaz Rymland",
+    "keywords": [
+        "yii",
+        "module",
+        "cms"
+    ],
+    "homepage": "https://github.com/garyburge/PcSimplePhoneValidator",
+    "type": "yii-extension",
+    "license": "New BSD License",
+    "version": "dev-master",
+    "authors": [
+        {
+            "name": "Boaz Rymland>",
+        },
+        {
+            "name": "Gary Burge",
+            "email": "garyburge@garyburge.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.1.0"
+    }
+}
